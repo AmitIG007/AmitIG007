@@ -44,6 +44,20 @@
 
 ### 📌 Featured Projects
 
+#### 💰 Personal Finance Manager
+> A secure web application to manage expenses, track income, and generate insights to help users stay on top of their finances.
+
+🔧 *Tech Stack:* Java, Spring Boot, Hibernate, MySQL, ReactJS, Bootstrap  
+📌 *Features:*
+- User authentication & registration (Spring Security)
+- Add/manage income & expenses with categories
+- View summary charts (monthly/yearly)
+- Export reports to CSV
+- Responsive UI using React + Bootstrap
+
+🔗 [GitHub Repo](https://github.com/amitig/personal-finance)
+
+
 #### 🔍 Smart Blood Group Detection using Fingerprint
 > Biometric-based system that detects a person’s blood group securely and instantly  
 > 🔧 *Java, Spring Boot, Fingerprint SDK*
