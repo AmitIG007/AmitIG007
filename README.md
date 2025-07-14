@@ -55,7 +55,7 @@
 - Export reports to CSV
 - Responsive UI using React + Bootstrap
 
-🔗 [GitHub Repo]([https://github.com/amitig/personal-finance](https://github.com/AmitIG007/Personal-finance))
+🔗 [GitHub Repo](https://github.com/AmitIG007/Personal-finance)
 
 
 #### 🔍 Smart Blood Group Detection using Fingerprint
