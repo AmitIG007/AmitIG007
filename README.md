@@ -57,6 +57,20 @@
 
 🔗 [GitHub Repo](https://github.com/AmitIG007/Personal-finance)
 
+#### 📚 Online Bookstore Web App
+> A fully functional online bookstore where users can browse, search, and purchase books. Includes admin features to manage inventory.
+
+🔧 *Tech Stack:* Java, Spring Boot, Hibernate, MySQL, ReactJS, REST API, Bootstrap  
+📌 *Features:*
+- User registration/login (Spring Security + JWT)
+- Book catalog with filters (genre, price, author)
+- Shopping cart and checkout system
+- Admin dashboard to add/update/delete books
+- Order management & payment simulation
+- Responsive and user-friendly UI
+
+🔗 [GitHub Repo](https://github.com/amitig/online-bookstore)
+
 
 #### 🔍 Smart Blood Group Detection using Fingerprint
 > Biometric-based system that detects a person’s blood group securely and instantly  
