@@ -69,7 +69,7 @@
 - Order management & payment simulation
 - Responsive and user-friendly UI
 
-🔗 [GitHub Repo](https://github.com/amitig/online-bookstore)
+🔗 [GitHub Repo](https://github.com/AmitIG007/OnlineBookstore)
 
 
 #### 🔍 Smart Blood Group Detection using Fingerprint
